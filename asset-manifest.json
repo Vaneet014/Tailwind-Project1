@@ -1,0 +1,16 @@
+{
+  "files": {
+    "main.css": "/Tailwind-Project1/static/css/main.3c1078a2.css",
+    "main.js": "/Tailwind-Project1/static/js/main.2e7e1170.js",
+    "static/js/453.10a58e04.chunk.js": "/Tailwind-Project1/static/js/453.10a58e04.chunk.js",
+    "static/media/Tesla_s.jpg": "/Tailwind-Project1/static/media/Tesla_s.b307b2da6434d9e2f660.jpg",
+    "index.html": "/Tailwind-Project1/index.html",
+    "main.3c1078a2.css.map": "/Tailwind-Project1/static/css/main.3c1078a2.css.map",
+    "main.2e7e1170.js.map": "/Tailwind-Project1/static/js/main.2e7e1170.js.map",
+    "453.10a58e04.chunk.js.map": "/Tailwind-Project1/static/js/453.10a58e04.chunk.js.map"
+  },
+  "entrypoints": [
+    "static/css/main.3c1078a2.css",
+    "static/js/main.2e7e1170.js"
+  ]
+}
